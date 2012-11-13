@@ -1,7 +1,7 @@
 siC++
 =====
 
-#A C++aveman's Style Suite
+##A C++aveman's Style Suite
 
 ###Contents
 
