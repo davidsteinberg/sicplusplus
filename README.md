@@ -5,6 +5,11 @@ siC++
 
 Note: developed on a Mac from Leopard to Lion. Let me know how it fares otherwise.
 
+Note 2: make sure you are
+```
+using namespace sic;
+```
+
 ###Contents
 
 1. Header (.hpp) files to include for stylish endeavors
