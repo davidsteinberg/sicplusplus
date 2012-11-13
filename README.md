@@ -3,6 +3,8 @@ siC++
 
 ##A C++aveman's Style Suite
 
+Note: developed on a Mac from Leopard to Lion. Let me know how it fares otherwise.
+
 ###Contents
 
 1. Header (.hpp) files to include for stylish endeavors
