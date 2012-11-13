@@ -10,32 +10,25 @@ siC++
 
 ###Constants
 
-####Style
-  Reset
-	Bold
-	Underline
-	Dim
-	Blink
-	Reverse
+####Styles
+```
+Reset
+Bold
+Underline
+Dim
+Blink
+Reverse
+```
 
-####Color
-	Default
-	Black / iBlack
-	Red / iRed
-	Green / iGreen
-	Yellow / iYellow
-	Blue / iBlue
-	Magenta / iMagenta
-	Cyan / iCyan
-	Gray / iGray
-
-BG
-	Default
-	Black		iBlack
-	Red		iRed
-	Green		iGreen
-	Yellow		iYellow
-	Blue		iBlue
-	Magenta		iMagenta
-	Cyan		iCyan
-	Gray		iGray
+####Colors
+```
+Default
+Black / iBlack
+Red / iRed
+Green / iGreen
+Yellow / iYellow
+Blue / iBlue
+Magenta / iMagenta
+Cyan / iCyan
+Gray / iGray
+```
